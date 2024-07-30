@@ -6,9 +6,9 @@ It's the first year's major programming project. Printf replicates the C standar
 What I learned from this project:
 
 * How to use git in a team setting
-* Applying variadic functions to a big project
+* Applying variadic functions to a complex project
 * The complexities of printf
-* Managing a lot of files and finding a good workflow
+* Managing multiple files while ensuring efficient workflow
 
 ---
 
